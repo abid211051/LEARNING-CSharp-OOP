@@ -1,0 +1,15 @@
+D:\Development\ASP.NET\ObjectOriented\bin\Debug\net6.0\ObjectOriented.exe
+D:\Development\ASP.NET\ObjectOriented\bin\Debug\net6.0\ObjectOriented.deps.json
+D:\Development\ASP.NET\ObjectOriented\bin\Debug\net6.0\ObjectOriented.runtimeconfig.json
+D:\Development\ASP.NET\ObjectOriented\bin\Debug\net6.0\ObjectOriented.dll
+D:\Development\ASP.NET\ObjectOriented\bin\Debug\net6.0\ObjectOriented.pdb
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.csproj.AssemblyReference.cache
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.AssemblyInfoInputs.cache
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.AssemblyInfo.cs
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.csproj.CoreCompileInputs.cache
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.dll
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\refint\ObjectOriented.dll
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.pdb
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ObjectOriented.genruntimeconfig.cache
+D:\Development\ASP.NET\ObjectOriented\obj\Debug\net6.0\ref\ObjectOriented.dll
